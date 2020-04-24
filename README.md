@@ -16,9 +16,11 @@
 
 
 ### Usage:
-```
-cd infog
-bash infog.sh
+التحميل الادء  اخر اصدار 
+git clone https://github.com/root20201/ip-tcp.git
+
+cd egypt
+bash egypt.sh
 ```
 
 ### Install requirements (Curl, Netcat):
