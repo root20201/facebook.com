@@ -15,11 +15,11 @@
 - Check DNS leaking
 
 
-### Usage:
-التحميل الادء  اخر اصدار 
+### Usage: 
 git clone https://github.com/root20201/ip-tcp.git
 
 cd egypt
+
 bash egypt.sh
 ```
 
